@@ -24,4 +24,4 @@ Conclusion: The Data Analytics Dashboard for Global Super Store transforms raw d
 
 Acknowledgments:
 
-I would like to express my sincere gratitude to my teacher, Siji Ma'am, for her excellent guidance in teaching me Power BI. Her valuable support and expertise have been instrumental in developing this data analytics dashboard.
+I would like to express my sincere gratitude to my teacher, Siji Ma'am, and batch mate Chaithanya for their excellent guidance in teaching me Power BI. Her valuable support and expertise have been instrumental in developing this data analytics dashboard.
